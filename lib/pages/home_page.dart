@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:revnotes_flutter_pb/pocketbase_service.dart';
+import 'package:revnotes_flutter_pb/services/pocketbase_service.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
