@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_secure_storage: ^9.2.2
   pocketbase: ^0.18.1
+  fetch_client: ^1.1.2
 
 dev_dependencies:
   flutter_test:
